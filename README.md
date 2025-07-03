@@ -27,8 +27,6 @@ Additionally, I have experience using **Shopify**, **Peoplevine**, **Squarespace
 - ⭐ **Interactive UI Elements** – Developed dropdown menus, sliders, and custom mini-carts integrated with Shopify’s cart and search features.  
 - 🧩 **Internal Company Projects** – Contributed to private repositories under senior developer supervision, focusing on frontend logic, component styling, and bug fixing.
 
-> 📌 *Note: Due to company policies, some project code is hosted in private repositories.*
-
 ---
 
 ## 📫 Let's connect
